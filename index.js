@@ -21,7 +21,7 @@ const server = createServer((req, res) => {
 </head>
 <body>
   <h1>here the world ends with raptors and reptilicus</h1>
-  
+  <div>npm run start:watch</div>
 </body>
 </html>
   `);
