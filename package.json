@@ -1,0 +1,25 @@
+{
+  "name": "http-lab-fsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustardJoe/http-lab-fsjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustardJoe/http-lab-fsjs/issues"
+  },
+  "homepage": "https://github.com/MustardJoe/http-lab-fsjs#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  }
+}
